@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @li-yi-ge
+- 👀 I’m interested in games and develop high-quality software
+- 🌱 I’m currently learning JavaScript and Python
